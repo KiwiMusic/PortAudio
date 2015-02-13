@@ -24,9 +24,14 @@
 xcuserdata/
 xcshareddata/
 *.build/
-*.libs/
-*bin/
 *.gcda
 *.mode1V3
 *.pbxuser
 .DS_Store
+
+*.libs/
+*bin/
+bin-stamp
+config.log
+config.status
+lib-stamn
