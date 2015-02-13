@@ -24,6 +24,7 @@
 xcuserdata/
 xcshareddata/
 *.build/
+*.libs/
 *.gcda
 *.mode1V3
 *.pbxuser
