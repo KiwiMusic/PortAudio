@@ -35,3 +35,7 @@ bin-stamp
 config.log
 config.status
 lib-stamn
+libtool
+lib-stamp
+Makefile
+portaudio-2.0.pc
